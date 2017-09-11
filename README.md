@@ -1,4 +1,4 @@
-# Capstone Project 2 - League of Legends Professional Games Dataset
+# Capstone Project 2 - League of Legends Professional Games
 # Michael Phillips
 
 ## EDA

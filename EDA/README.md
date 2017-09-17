@@ -1,6 +1,9 @@
 # Capstone Project 2 - League of Legends
 # Data Wrangling and EDA
 
+### Lol Professional Games EDA 
+This notebook contains the EDA for the dataset.
+
 ### Final Data Configuration and Descriptions
 This notebook contains an overview of the data after data wrangling was completed.
 

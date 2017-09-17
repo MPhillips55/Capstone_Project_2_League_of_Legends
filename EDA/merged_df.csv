@@ -428,9 +428,7 @@
 427,0fca4b8527d8a3cb,LMS,Spring_Season,2016,M17,blue,0,45,BoBo,Poppy,Taizan,Gragas,Apex,Lulu,Dee,Sivir,Dreamer,Nautilus,'Corki', 'Zilean', 'Ezreal',,
 426,0fca4b8527d8a3cb,LMS,Spring_Season,2016,MSE,red,1,45,Ninuo,Trundle,Wulala,Elise,M1ssion,Viktor,CorGi,Lucian,Braum,Kaiwing,'Kalista', 'Alistar', 'Zed',,
 428,0fceb9a2c8ccff23,LCK,Spring_Season,2017,JAG,blue,1,45,ikssu,Poppy,Raise,Elise,Kuzan,Leblanc,Teddy,Jhin,SnowFlower,Zyra,'Rengar', 'Camille', 'Nautilus', 'Maokai', 'Sion'
-431,0fceb9a2c8ccff23,LCK,Spring_Season,2017,JAG,blue,1,45,ikssu,Poppy,Raise,Elise,Kuzan,Leblanc,Teddy,Jhin,SnowFlower,Zyra,'Rengar', 'Camille', 'Nautilus', 'Maokai', 'Sion'
 429,0fceb9a2c8ccff23,LCK,Spring_Season,2017,MVP,red,0,45,ADD,Gragas,Beyond,Graves,Ian,Corki,MaHa,Ashe,Malzahar,Max,'Varus', 'Ezreal', 'Ryze', 'Shen', 'Rumble'
-430,0fceb9a2c8ccff23,LCK,Spring_Season,2017,MVP,red,0,45,ADD,Gragas,Beyond,Graves,Ian,Corki,MaHa,Ashe,Malzahar,Max,'Varus', 'Ezreal', 'Ryze', 'Shen', 'Rumble'
 432,0ff43d0000d7eef4,CBLOL,Summer_Season,2017,KST,blue,0,47,Yang,Renekton,Revolta,Khazix,takeshi,Cassiopeia,esA,Sivir,Ziriguidun,Nami,'Zyra', 'Graves', 'Shen', 'Zed', 'Syndra'
 433,0ff43d0000d7eef4,CBLOL,Summer_Season,2017,CNB,red,1,47,Lep,Fiora,Minerva,RekSai,Tinowns,Ryze,pbO,Jhin,Karma,Woswos,'Leblanc', 'Jayce', 'Varus', 'TahmKench', 'Ekko'
 434,0fff3ee4c1bc24fb,North_America,Spring_Playoffs,2015,TIP,blue,0,30,Impact,Gnar,Rush,LeeSin,XiaoWeiXiao,TwistedFate,Apollo,Sivir,Adrian,Leona,'Sejuani', 'Cassiopeia', 'Lulu',,
@@ -727,10 +725,8 @@
 725,18fd2f07b09da3e8,Europe,Spring_Season,2017,UOL,red,1,42,Vizicsacsi,Shen,Xerxe,Ivern,Exileh,Katarina,Samux,Jhin,Thresh,Hylissang,'Leblanc', 'Camille', 'Rengar', 'Rumble', 'Varus'
 727,192f9eb96eaf29c9,North_America,Summer_Season,2015,TL,blue,1,36,Quas,Maokai,IWDominate,Nidalee,FeniX,Viktor,Piglet,Kalista,Xpecial,Thresh,'Olaf', 'Gragas', 'Alistar',,
 726,192f9eb96eaf29c9,North_America,Summer_Season,2015,CLG,red,0,36,ZionSpartan,Fizz,Xmithie,Nautilus,Pobelter,TwistedFate,Doublelift,Sivir,Janna,aphromoo,'Ryze', 'Azir', 'Annie',,
-730,1932450739953244,LCK,Spring_Season,2017,SSG,blue,1,38,CuVee,Maokai,Haru,Rengar,Crown,Syndra,Ruler,Jhin,CoreJJ,Zyra,'Camille', 'Rumble', 'Khazix', 'Elise', 'Nautilus'
-731,1932450739953244,LCK,Spring_Season,2017,SSG,blue,1,38,CuVee,Maokai,Haru,Rengar,Crown,Syndra,Ruler,Jhin,CoreJJ,Zyra,'Camille', 'Rumble', 'Khazix', 'Elise', 'Nautilus'
-728,1932450739953244,LCK,Spring_Season,2017,kt,red,0,38,Smeb,Gangplank,Score,Gragas,Pawn,Ryze,Deft,Ezreal,Karma,Mata,'Graves', 'Varus', 'Leblanc', 'Taliyah', 'Cassiopeia'
-729,1932450739953244,LCK,Spring_Season,2017,kt,red,0,38,Smeb,Gangplank,Score,Gragas,Pawn,Ryze,Deft,Ezreal,Karma,Mata,'Graves', 'Varus', 'Leblanc', 'Taliyah', 'Cassiopeia'
+730,1.93245E+15,LCK,Spring_Season,2017,SSG,blue,1,38,CuVee,Maokai,Haru,Rengar,Crown,Syndra,Ruler,Jhin,CoreJJ,Zyra,'Camille', 'Rumble', 'Khazix', 'Elise', 'Nautilus'
+728,1.93245E+15,LCK,Spring_Season,2017,kt,red,0,38,Smeb,Gangplank,Score,Gragas,Pawn,Ryze,Deft,Ezreal,Karma,Mata,'Graves', 'Varus', 'Leblanc', 'Taliyah', 'Cassiopeia'
 733,1937d0f1a1e3614b,Europe,Spring_Season,2015,SK,blue,1,38,fredy122,Kennen,Svenskeren,RekSai,Fox,Kassadin,FORG1VENGRE,Graves,nRated,Blitzcrank,'Cassiopeia', 'Hecarim', 'Irelia',,
 732,1937d0f1a1e3614b,Europe,Spring_Season,2015,UOL,red,0,38,Vizicsacsi,Gnar,Kikis,JarvanIV,PowerOfEvil,Syndra,Vardags,Jinx,Thresh,Hylissang,'Zed', 'Lissandra', 'Azir',,
 734,194282f35f5e3939,LCK,Summer_Season,2016,kt,blue,1,30,Ssumday,Trundle,Score,Elise,Fly,Viktor,Arrow,Lucian,Hachani,Taric,'Azir', 'Varus', 'Nidalee',,
@@ -1682,9 +1678,7 @@
 1681,3921297eec448784,LCK,Summer_Season,2016,JAG,blue,1,45,TrAce,Shen,Winged,Graves,Kuzan,Leblanc,Pilot,Ezreal,Chei,Karma,'TwistedFate', 'Varus', 'Vladimir',,
 1680,3921297eec448784,LCK,Summer_Season,2016,AFs,red,0,45,ikssu,Gragas,LirA,RekSai,Mickey,Viktor,Sangyoon,Sivir,Bard,SnowFlower,'Lucian', 'Ryze', 'Azir',,
 1682,3921c12f9753048e,LCK,Spring_Season,2017,SKT,blue,1,28,Huni,Rumble,Peanut,LeeSin,Faker,Talon,Bang,Ezreal,Wolf,Nami,'Malzahar', 'Kennen', 'Graves', 'Nautilus', 'Taliyah'
-1685,3921c12f9753048e,LCK,Spring_Season,2017,SKT,blue,1,28,Huni,Rumble,Peanut,LeeSin,Faker,Talon,Bang,Ezreal,Wolf,Nami,'Malzahar', 'Kennen', 'Graves', 'Nautilus', 'Taliyah'
 1683,3921c12f9753048e,LCK,Spring_Season,2017,AFs,red,0,28,MaRin,DrMundo,Spirit,Rengar,Kuro,Ryze,Kramer,Ashe,Zyra,TusiN,'Camille', 'Varus', 'Leblanc', 'Karma', 'TahmKench'
-1684,3921c12f9753048e,LCK,Spring_Season,2017,AFs,red,0,28,MaRin,DrMundo,Spirit,Rengar,Kuro,Ryze,Kramer,Ashe,Zyra,TusiN,'Camille', 'Varus', 'Leblanc', 'Karma', 'TahmKench'
 1687,3938727a1a0b4e8c,Europe,Summer_Season,2016,UOL,blue,0,36,Vizicsacsi,Trundle,Move,Gragas,Exileh,Kassadin,Veritas,Sivir,Hylissang,Taric,'Karma', 'Elise', 'Malzahar',,
 1686,3938727a1a0b4e8c,Europe,Summer_Season,2016,H2K,red,1,36,Odoamne,Shen,Jankos,Hecarim,Ryu,Leblanc,FORG1VEN,Lucian,Braum,Vander,'Bard', 'Illaoi', 'Nidalee',,
 1688,39492a263961999d,CBLOL,Summer_Season,2017,RED,blue,1,50,Robo,Ekko,Nappon,Rengar,tockers,Syndra,brTT RX,Ziggs,Dioud,TahmKench,'Zyra', 'Shen', 'Jhin', 'Nautilus', 'Renekton'
@@ -2068,9 +2062,7 @@
 2067,470d88b0070663c2,North_America,Spring_Season,2017,CLG,blue,1,30,Darshan,Poppy,Xmithie,LeeSin,Huhi,Orianna,Stixxay,Jhin,aphromoo,Soraka,'Caitlyn', 'Leblanc', 'Graves', 'Thresh', 'Ryze'
 2066,470d88b0070663c2,North_America,Spring_Season,2017,TL,red,0,30,Lourlo,Maokai,Reignover,Khazix,Goldenglue,Cassiopeia,Piglet,Sivir,Nami,Matt,'Jayce', 'Shen', 'Rengar', 'Camille', 'Fiora'
 2070,47111ff42c582d26,LCK,Spring_Season,2017,ROX,blue,1,33,Shy,Nautilus,Mightybear,Graves,Mickey,Syndra,Sangyoon,Jhin,Key,Zyra,'Malzahar', 'Ashe', 'Rengar', 'Karma', 'TahmKench'
-2071,47111ff42c582d26,LCK,Spring_Season,2017,ROX,blue,1,33,Shy,Nautilus,Mightybear,Graves,Mickey,Syndra,Sangyoon,Jhin,Key,Zyra,'Malzahar', 'Ashe', 'Rengar', 'Karma', 'TahmKench'
 2068,47111ff42c582d26,LCK,Spring_Season,2017,LZ,red,0,33,Expession,Shen,Crash,Khazix,Fly,Ryze,PraY,Ezreal,Nami,GorillA,'Varus', 'Camille', 'Leblanc', 'Lulu', 'Cassiopeia'
-2069,47111ff42c582d26,LCK,Spring_Season,2017,LZ,red,0,33,Expession,Shen,Crash,Khazix,Fly,Ryze,PraY,Ezreal,Nami,GorillA,'Varus', 'Camille', 'Leblanc', 'Lulu', 'Cassiopeia'
 2073,471e3f3445e86ad4,LCK,Summer_Season,2015,KOO,blue,0,35,Smeb,RekSai,HOJIN,Evelynn,Kuro,Azir,PraY,Sivir,GorillA,Nautilus,'Alistar', 'Leblanc', 'Rumble',,
 2072,471e3f3445e86ad4,LCK,Summer_Season,2015,SKT,red,1,35,MaRin,Maokai,Bengi,Gragas,Faker,KogMaw,Bang,Vayne,Janna,Wolf,'Viktor', 'Lulu', 'Kalista',,
 2075,4725b07311676885,Season_World_Championship,International,2015,KOO,blue,0,35,Smeb,Lulu,Hojin,RekSai,Kuro,Kassadin,PraY,Ashe,GorillA,TahmKench,'Renekton', 'Rumble', 'Kalista',,
@@ -2397,8 +2389,8 @@
 2394,51f4a17a43c1435d,LCK,Spring_Season,2016,AFs,red,1,30,ikssu,Poppy,LirA,Nidalee,Mickey,Corki,Sangyoon,Sivir,Braum,SnowFlower,'Lissandra', 'Azir', 'Kalista',,
 2396,5204b1653ece9144,LCK,Spring_Season,2017,SKT,blue,0,44,Huni,Nautilus,Peanut,Elise,Faker,Orianna,Bang,Ezreal,Wolf,Nami,'Khazix', 'Taliyah', 'Rengar', 'AurelionSol', 'Lulu'
 2397,5204b1653ece9144,LCK,Spring_Season,2017,LZ,red,1,44,Expession,Shen,Crash,LeeSin,Fly,Ryze,PraY,Ashe,Karma,GorillA,'Camille', 'Graves', 'Rumble', 'Talon', 'Malzahar'
-2399,5210793878197802,North_America,Spring_Season,2017,C9,blue,1,37,Impact,Nautilus,Contractz,LeeSin,Jensen,Syndra,Sneaky,Varus,Smoothie,Taric,'Zyra', 'Maokai', 'Ryze', 'Fiora', 'Jayce'
-2398,5210793878197802,North_America,Spring_Season,2017,TSM,red,0,37,Hauntzer,Trundle,Svenskeren,RekSai,Bjergsen,Katarina,WildTurtle,Ashe,Malzahar,Biofrost,'Leblanc', 'Camille', 'Rengar', 'Karma', 'Lulu'
+2399,5.21079E+15,North_America,Spring_Season,2017,C9,blue,1,37,Impact,Nautilus,Contractz,LeeSin,Jensen,Syndra,Sneaky,Varus,Smoothie,Taric,'Zyra', 'Maokai', 'Ryze', 'Fiora', 'Jayce'
+2398,5.21079E+15,North_America,Spring_Season,2017,TSM,red,0,37,Hauntzer,Trundle,Svenskeren,RekSai,Bjergsen,Katarina,WildTurtle,Ashe,Malzahar,Biofrost,'Leblanc', 'Camille', 'Rengar', 'Karma', 'Lulu'
 2400,521dac7f3b77d6d1,CBLOL,Winter_Season,2016,BGG,blue,0,31,Ranger,Maokai,Tierwulf VPP,Graves,Rakin VPP,Ryze,Luskka,Kalista,RedBert VPP,Braum,'Azir', 'Sivir', 'Caitlyn',,
 2401,521dac7f3b77d6d1,CBLOL,Winter_Season,2016,PNG,red,1,31,Mylon,Ekko,SirT,Kindred,Kami,Varus,TaeYeon,Lucian,Soraka,Ziriguidun,'Nidalee', 'Alistar', 'Trundle',,
 2403,52364c379e70a863,Europe,Spring_Season,2016,H2K,blue,1,35,Odoamne,Rammus,Jankos,Elise,Ryu,Lissandra,FORG1VENGRE,Kalista,Vander,Braum,'Trundle', 'Alistar', 'Gragas',,
@@ -2519,8 +2511,8 @@
 2516,55f8c4499215a90e,Europe,Summer_Season,2016,UOL,red,1,34,Vizicsacsi,Irelia,Move,RekSai,Exileh,Vladimir,Veritas,Lucian,Braum,Hylissang,'Nidalee', 'Malzahar', 'Karma',,
 2519,5604703d17a7f2a4,Mid-Season_Invitational,International,2017,FW,blue,0,47,MMD,Gragas,Karsa,Rengar,Maple,Leblanc,Betty,Varus,SwordArt,Lulu,'Jayce', 'Kennen', 'Fiora', 'Renekton', 'Shen'
 2518,5604703d17a7f2a4,Mid-Season_Invitational,International,2017,G2,red,1,47,Expect,Nautilus,Trick,Ivern,Perkz,Ryze,Zven,Caitlyn,Karma,mithy,'Ashe', 'Graves', 'LeeSin', 'Kled', 'Rumble'
-2520,5605652209410353,North_America,Summer_Playoffs,2015,CLG,blue,1,44,ZionSpartan,Olaf,Xmithie,Ekko,Pobelter,Viktor,Doublelift,Tristana,aphromoo,Braum,'Azir', 'Nidalee', 'Elise',,
-2521,5605652209410353,North_America,Summer_Playoffs,2015,TIP,red,0,44,Impact,Shen,Rush,Evelynn,Gate,Lulu,Apollo,KogMaw,Alistar,Adrian,'TwistedFate', 'Kalista', 'Gragas',,
+2520,5.60565E+15,North_America,Summer_Playoffs,2015,CLG,blue,1,44,ZionSpartan,Olaf,Xmithie,Ekko,Pobelter,Viktor,Doublelift,Tristana,aphromoo,Braum,'Azir', 'Nidalee', 'Elise',,
+2521,5.60565E+15,North_America,Summer_Playoffs,2015,TIP,red,0,44,Impact,Shen,Rush,Evelynn,Gate,Lulu,Apollo,KogMaw,Alistar,Adrian,'TwistedFate', 'Kalista', 'Gragas',,
 2523,5611a9eaf7dc6b76,North_America,Spring_Season,2016,FOX,blue,0,20,Solo,Fiora,Grigne,LeeSin,Goldenglue,Gangplank,Keith,Kalista,Big,Alistar,'Corki', 'Poppy', 'Lissandra',,
 2522,5611a9eaf7dc6b76,North_America,Spring_Season,2016,IMT,red,1,20,Huni,Quinn,Reignover,Elise,Pobelter,Syndra,WildTurtle,Lucian,Janna,Adrian,'TahmKench', 'Lulu', 'Graves',,
 2524,563362e1228d8a6f,North_America,Summer_Season,2016,P1,blue,0,30,zig,Trundle,Zentinel,Elise,Pirean,Lissandra,Mash,Lucian,Gate,Zyra,'Nidalee', 'Vladimir', 'RekSai',,
@@ -2792,9 +2784,7 @@
 2791,5f22db4fcc6a8bc8,Europe,Spring_Season,2017,G2,blue,1,36,Expect,Shen,Trick,LeeSin,Perkz,Leblanc,Zven,Ashe,mithy,Zyra,'Elise', 'Jhin', 'Fiora', 'MissFortune', 'Karma'
 2790,5f22db4fcc6a8bc8,Europe,Spring_Season,2017,ROC,red,0,36,Phaxi,Gangplank,Maxlore,RekSai,Betsy,Ryze,Hjarnan,Varus,TahmKench,Wadid,'Rengar', 'Camille', 'Khazix', 'Maokai', 'Jayce'
 2792,5f2352346559905a,LCK,Spring_Season,2017,MVP,blue,1,51,ADD,Nautilus,Beyond,LeeSin,Ian,Orianna,MaHa,Ziggs,Max,Elise,'Malzahar', 'Ezreal', 'Leblanc', 'Vladimir', 'Taliyah'
-2795,5f2352346559905a,LCK,Spring_Season,2017,MVP,blue,1,51,ADD,Nautilus,Beyond,LeeSin,Ian,Orianna,MaHa,Ziggs,Max,Elise,'Malzahar', 'Ezreal', 'Leblanc', 'Vladimir', 'Taliyah'
 2793,5f2352346559905a,LCK,Spring_Season,2017,JAG,red,0,51,ikssu,Shen,Raise,Graves,Kuzan,Lissandra,Teddy,Jhin,Lulu,SnowFlower,'Rengar', 'Camille', 'Varus', 'Jayce', 'Zed'
-2794,5f2352346559905a,LCK,Spring_Season,2017,JAG,red,0,51,ikssu,Shen,Raise,Graves,Kuzan,Lissandra,Teddy,Jhin,Lulu,SnowFlower,'Rengar', 'Camille', 'Varus', 'Jayce', 'Zed'
 2797,5f27950f7d7d451a,Europe,Spring_Season,2016,SPY,blue,0,26,Wunderwear,Fiora,Trashy,LeeSin,Sencux,Zed,Kobbe,Corki,Nisbeth,Nautilus,'Alistar', 'Braum', 'Quinn',,
 2796,5f27950f7d7d451a,Europe,Spring_Season,2016,H2K,red,1,26,Odoamne,Rammus,Jankos,Nidalee,Ryu,Leblanc,FORG1VENGRE,Lucian,Thresh,Vander,'Lulu', 'Gangplank', 'Kalista',,
 2799,5f35fd1f72b35284,LCK,Spring_Season,2017,SKT,blue,1,49,Profit,Rumble,Blank,Graves,Faker,Zilean,Bang,Ezreal,Wolf,Lulu,'Malzahar', 'Leblanc', 'Maokai', 'Caitlyn', 'Jhin'
@@ -2804,9 +2794,7 @@
 2802,5f4573f8da55abb9,LCK,Summer_Season,2016,SKT,blue,0,27,Duke,Fiora,Blank,Elise,Faker,Vladimir,Bang,Sivir,Wolf,Karma,'Thresh', 'TwistedFate', 'Shen',,
 2803,5f4573f8da55abb9,LCK,Summer_Season,2016,AFs,red,1,27,Lindarang,Trundle,SeongHwan,RekSai,Mickey,Kassadin,Sangyoon,Lucian,Braum,SnowFlower,'Azir', 'Ryze', 'Ezreal',,
 2804,5f4a0ac97d24fd55,LCK,Spring_Season,2017,LZ,blue,1,27,Expession,Nautilus,Crash,Graves,Fly,Taliyah,PraY,Jhin,GorillA,Thresh,'Malzahar', 'Rumble', 'Leblanc', 'Rengar', 'Khazix'
-2806,5f4a0ac97d24fd55,LCK,Spring_Season,2017,LZ,blue,1,27,Expession,Nautilus,Crash,Graves,Fly,Taliyah,PraY,Jhin,GorillA,Thresh,'Malzahar', 'Rumble', 'Leblanc', 'Rengar', 'Khazix'
 2805,5f4a0ac97d24fd55,LCK,Spring_Season,2017,bbq,red,0,27,Crazy,Shen,Bless,Gragas,Tempt,Ahri,Ghost,Ashe,Lulu,Totoro,'Varus', 'Camille', 'Zyra', 'Karma', 'Ryze'
-2807,5f4a0ac97d24fd55,LCK,Spring_Season,2017,bbq,red,0,27,Crazy,Shen,Bless,Gragas,Tempt,Ahri,Ghost,Ashe,Lulu,Totoro,'Varus', 'Camille', 'Zyra', 'Karma', 'Ryze'
 2808,5f4b03993fbdf6a4,LCK,Summer_Season,2016,JAG,blue,1,43,TrAce,Maokai,Winged,Elise,Kuzan,Leblanc,Pilot,Sivir,Chei,Braum,'Lucian', 'Ekko', 'Kindred',,
 2809,5f4b03993fbdf6a4,LCK,Summer_Season,2016,CJE,red,0,43,Untara,Trundle,Haru,Graves,Bdd,Karma,Kramer,Jinx,Nami,MadLife,'Ryze', 'Azir', 'Nidalee',,
 2810,5f815b5bea274396,North_America,Spring_Season,2015,TSM,blue,1,24,Dyrus,Maokai,Santorin,Vi,Bjergsen,Ahri,WildTurtle,Jinx,Lustboy,Janna,'Irelia', 'Morgana', 'JarvanIV',,
@@ -2858,9 +2846,7 @@
 2857,60f46f4c12b44a18,LCK,Spring_Season,2015,GET,blue,1,36,Smeb,Rumble,Lee,JarvanIV,Kuro,Viktor,PraY,Lucian,GorillA,Janna,'Fizz', 'Maokai', 'Kassadin',,
 2856,60f46f4c12b44a18,LCK,Spring_Season,2015,SSG,red,0,36,CuVee,Hecarim,Eve,LeeSin,BlisS,Lulu,Fury,Corki,Nami,Wraith,'RekSai', 'Veigar', 'Xerath',,
 2858,611cedec81b45af3,LCK,Spring_Season,2017,SKT,blue,1,29,Profit,Rumble,Peanut,LeeSin,Faker,Talon,Bang,Ashe,Wolf,Nami,'Malzahar', 'Camille', 'Graves', 'Taliyah', 'Ryze'
-2859,611cedec81b45af3,LCK,Spring_Season,2017,SKT,blue,1,29,Profit,Rumble,Peanut,LeeSin,Faker,Talon,Bang,Ashe,Wolf,Nami,'Malzahar', 'Camille', 'Graves', 'Taliyah', 'Ryze'
 2860,611cedec81b45af3,LCK,Spring_Season,2017,bbq,red,0,29,Crazy,Nautilus,Bless,RekSai,Tempt,Cassiopeia,Ghost,Ezreal,Karma,Totoro,'Varus', 'Leblanc', 'Rengar', 'Zed', 'TahmKench'
-2861,611cedec81b45af3,LCK,Spring_Season,2017,bbq,red,0,29,Crazy,Nautilus,Bless,RekSai,Tempt,Cassiopeia,Ghost,Ezreal,Karma,Totoro,'Varus', 'Leblanc', 'Rengar', 'Zed', 'TahmKench'
 2862,613b0e036c65b076,Europe,Summer_Season,2016,GIA,blue,0,26,Smittyj,Trundle,Maxlore,Hecarim,Night,Ryze,S0NSTAR,Ashe,Hustlin,Braum,'Elise', 'Olaf', 'Swain',,
 2863,613b0e036c65b076,Europe,Summer_Season,2016,S04,red,1,26,Steve,Gnar,Gilius,Nidalee,Fox,Cassiopeia,MrRalleZ,Jhin,Thresh,sprattel,'Vladimir', 'Azir', 'Karma',,
 2864,61466168685988df,Europe,Summer_Season,2016,FNC,blue,1,39,Gamsu,Rumble,Spirit,LeeSin,Febiven,Vladimir,Rekkles,Lucian,YellOwStaR,Nami,'Irelia', 'Olaf', 'Ryze',,
@@ -3270,9 +3256,7 @@
 3269,6f624fa623fc1d73,LCK,Summer_Season,2015,JAG,blue,0,38,TrAce,Rumble,Chaser,RekSai,GBM,Varus,Pilot,Vayne,Sweet,Alistar,'Leblanc', 'Sejuani', 'Sivir',,
 3268,6f624fa623fc1d73,LCK,Summer_Season,2015,kt,red,1,38,Ssumday,Maokai,Score,Evelynn,Nagne,Cassiopeia,Arrow,Kalista,Annie,Fixer,'Azir', 'Gragas', 'Bard',,
 3270,6f782e014aee38af,LCK,Spring_Season,2017,bbq,blue,0,44,Crazy,Nautilus,Bless,Khazix,Tempt,Talon,Ghost,Ashe,Totoro,Malzahar,'Rumble', 'LeeSin', 'Ryze', 'Shen', 'Orianna'
-3272,6f782e014aee38af,LCK,Spring_Season,2017,bbq,blue,0,44,Crazy,Nautilus,Bless,Khazix,Tempt,Talon,Ghost,Ashe,Totoro,Malzahar,'Rumble', 'LeeSin', 'Ryze', 'Shen', 'Orianna'
 3271,6f782e014aee38af,LCK,Spring_Season,2017,SKT,red,1,44,Huni,Gangplank,Peanut,Graves,Faker,Zilean,Bang,Ezreal,Karma,Wolf,'Camille', 'Varus', 'Leblanc', 'Rengar', 'Elise'
-3273,6f782e014aee38af,LCK,Spring_Season,2017,SKT,red,1,44,Huni,Gangplank,Peanut,Graves,Faker,Zilean,Bang,Ezreal,Karma,Wolf,'Camille', 'Varus', 'Leblanc', 'Rengar', 'Elise'
 3275,6f7aad8210fa5cd2,Europe,Spring_Season,2017,UOL,blue,1,36,Vizicsacsi,Shen,Xerxe,Rengar,Exileh,Ryze,Samux,Jhin,Hylissang,Zilean,'LeeSin', 'Elise', 'Lulu', 'Rumble', 'Nautilus'
 3274,6f7aad8210fa5cd2,Europe,Spring_Season,2017,FNC,red,0,36,sOAZ,Renekton,Broxah,Graves,Caps,Cassiopeia,Rekkles,Ezreal,Malzahar,Jesiz,'Leblanc', 'Varus', 'Camille', 'Zyra', 'Alistar'
 3276,6f7efb4535791e6a,Europe,Summer_Playoffs,2016,G2,blue,0,41,Expect,Gnar,Trick,RekSai,Perkz,Ekko,Zven,Lucian,mithy,Soraka,'Kassadin', 'TahmKench', 'Taliyah',,
@@ -3324,9 +3308,7 @@
 3323,709fb5f21c47682b,North_America,Summer_Season,2015,T8,blue,0,42,CaliTrlolz8,Fizz,Porpoise8,Gragas,Goldenglue,Viktor,Nien8,Corki,Dodo8,Braum,'Azir', 'Sivir', 'Alistar',,
 3322,709fb5f21c47682b,North_America,Summer_Season,2015,TL,red,1,42,Quas,Maokai,IWDominate,Nidalee,FeniX,Orianna,Piglet,KogMaw,Janna,Xpecial,'Ryze', 'Kalista', 'Tristana',,
 3325,709fc0cd19317b6d,LCK,Spring_Season,2017,LZ,blue,1,21,Expession,Shen,Crash,Khazix,Fly,Taliyah,PraY,Ashe,GorillA,Zyra,'Malzahar', 'Rengar', 'Leblanc', 'Jayce', 'Zed'
-3327,709fc0cd19317b6d,LCK,Spring_Season,2017,LZ,blue,1,21,Expession,Shen,Crash,Khazix,Fly,Taliyah,PraY,Ashe,GorillA,Zyra,'Malzahar', 'Rengar', 'Leblanc', 'Jayce', 'Zed'
 3324,709fc0cd19317b6d,LCK,Spring_Season,2017,ROX,red,0,21,Shy,Nautilus,Seonghwan,Elise,Mickey,Ahri,Sangyoon,Jhin,Karma,Key,'Graves', 'Varus', 'Camille', 'Talon', 'Ryze'
-3326,709fc0cd19317b6d,LCK,Spring_Season,2017,ROX,red,0,21,Shy,Nautilus,Seonghwan,Elise,Mickey,Ahri,Sangyoon,Jhin,Karma,Key,'Graves', 'Varus', 'Camille', 'Talon', 'Ryze'
 3329,70d51e4f47cc4609,CBLOL,Winter_Season,2016,RED,blue,0,62,Ayel,Swain,YoDa SL,Nidalee,Brucer,Leblanc,SacyR,Caitlyn,Dioud,Bard,'Vladimir', 'Trundle', 'Ryze',,
 3328,70d51e4f47cc4609,CBLOL,Winter_Season,2016,BGG,red,1,62,Ranger,Ekko,Tierwulf VPP,RekSai,Rakin VPP,Zilean,Luskka,Lucian,Braum,RedBert VPP,'Azir', 'Kindred', 'Zed',,
 3331,70d9f041461fb072,LCK,Summer_Season,2016,ROX,blue,1,38,Smeb,Irelia,Peanut,RekSai,Kuro,Anivia,PraY,Jhin,GorillA,Soraka,'Shen', 'Trundle', 'Sivir',,
@@ -3519,8 +3501,8 @@
 3516,7744d270c308774a,LCK,Spring_Season,2016,SSG,red,1,38,CuVee,Gangplank,Ambition,Elise,Crown,Azir,CoreJJ,Sivir,Braum,Wraith,'Jhin', 'Varus', 'Kindred',,
 3518,77531969b20c9ce6,LMS,Spring_Season,2016,CGE,blue,0,34,Syuan,Poppy,SpeaR,Gragas,KuKu,Lulu,Never,Ezreal,Rabi2,Alistar,'Fiora', 'Bard', 'Leblanc',,
 3519,77531969b20c9ce6,LMS,Spring_Season,2016,HKE,red,1,34,MapleSnow,Nautilus,Dinter,Kindred,MarS,Lissandra,GodKwai,Kalista,Thresh,Olleh,'Nidalee', 'Zilean', 'Gangplank',,
-3520,7754152520598187,Europe,Spring_Season,2015,GMB,blue,1,47,Cabochard,Morgana,Diamond,Nidalee,niQ,Ahri,P1noy,Kalista,Edward,Thresh,'Irelia', 'Lissandra', 'Gnar',,
-3521,7754152520598187,Europe,Spring_Season,2015,EL,red,0,47,Wickd,Rumble,Shook,JarvanIV,Froggen,Anivia,Rekkles,Graves,Lulu,Nyph,'Azir', 'Cassiopeia', 'Kassadin',,
+3520,7.75415E+15,Europe,Spring_Season,2015,GMB,blue,1,47,Cabochard,Morgana,Diamond,Nidalee,niQ,Ahri,P1noy,Kalista,Edward,Thresh,'Irelia', 'Lissandra', 'Gnar',,
+3521,7.75415E+15,Europe,Spring_Season,2015,EL,red,0,47,Wickd,Rumble,Shook,JarvanIV,Froggen,Anivia,Rekkles,Graves,Lulu,Nyph,'Azir', 'Cassiopeia', 'Kassadin',,
 3523,77659b1d7223680b,LMS,Spring_Season,2016,M17,blue,1,36,BoBo,TahmKench,Taizan,RekSai,Apex,Lissandra,Dee,Kalista,Dreamer,Alistar,'Shen', 'Corki', 'Ryze',,
 3522,77659b1d7223680b,LMS,Spring_Season,2016,MSE,red,0,36,Ninuo,Nautilus,Wulala,Elise,M1ssion,Viktor,Payne,Ashe,Trundle,Kaiwing,'Karthus', 'Gangplank', 'Graves',,
 3524,776eb5346fc7ffb4,CBLOL,Summer_Season,2017,ITZ,blue,1,32,Ayel,Maokai,Turtle,Rengar,Envy,Jayce,micaO,Jhin,Jockster,Malzahar,'Ekko', 'Karma', 'Khazix', 'Syndra', 'Katarina'
@@ -3802,9 +3784,7 @@
 3800,82225baf029a31c7,North_America,Summer_Season,2015,TIP,blue,1,29,Impact,Maokai,Rush,LeeSin,XiaoWeiXiao,Orianna,Apollo,Sivir,Adrian,Alistar,'RekSai', 'Azir', 'Ekko',,
 3801,82225baf029a31c7,North_America,Summer_Season,2015,C9,red,0,29,Balls,Rumble,Meteos,Nocturne,Incarnati0n,Viktor,Sneaky,Jinx,Annie,LemonNation,'Ryze', 'Kalista', 'Gragas',,
 3802,824031cdeb2ba88e,LCK,Spring_Season,2017,KDM,blue,0,33,Roach,Camille,Punch,LeeSin,Edge,Zilean,SSol,Ezreal,Secret,Lulu,'Malzahar', 'Syndra', 'Rengar', 'Talon', 'Vladimir'
-3805,824031cdeb2ba88e,LCK,Spring_Season,2017,KDM,blue,0,33,Roach,Camille,Punch,LeeSin,Edge,Zilean,SSol,Ezreal,Secret,Lulu,'Malzahar', 'Syndra', 'Rengar', 'Talon', 'Vladimir'
 3803,824031cdeb2ba88e,LCK,Spring_Season,2017,MVP,red,1,33,ADD,Poppy,Beyond,Elise,Ian,Orianna,MaHa,Ashe,Thresh,Max,'Varus', 'Leblanc', 'Graves', 'Rumble', 'Taliyah'
-3804,824031cdeb2ba88e,LCK,Spring_Season,2017,MVP,red,1,33,ADD,Poppy,Beyond,Elise,Ian,Orianna,MaHa,Ashe,Thresh,Max,'Varus', 'Leblanc', 'Graves', 'Rumble', 'Taliyah'
 3807,825dcbc72cc57865,LMS,Spring_Season,2015,DoR,blue,0,32,ArJuan,Gnar,HanJi,Rengar,Kawai,Orianna,HoNeyRain,Corki,ThreshMelon,Leona,'Veigar', 'RekSai', 'Kalista',,
 3806,825dcbc72cc57865,LMS,Spring_Season,2015,LOG,red,1,32,S Achie,Lulu,S JCain,Olaf,S HoHotDoG,Xerath,S RD,Ezreal,Annie,S Ysera,'Irelia', 'Kassadin', 'JarvanIV',,
 3809,825dfc2c451a4c56,CBLOL,Summer_Season,2017,ITZ,blue,0,28,ayel,Fiora,Turtle,LeeSin,Envy,Cassiopeia,micaO,Ashe,Jockster,Malzahar,'Zyra', 'MissFortune', 'Syndra', 'Varus', 'Jhin'
@@ -3930,9 +3910,7 @@
 3929,864ed9082c4671ea,LCK,Summer_Season,2016,ROX,blue,1,37,Smeb,Irelia,Peanut,Gragas,Cry,Azir,PraY,Jhin,GorillA,Thresh,'Shen', 'Trundle', 'Cassiopeia',,
 3928,864ed9082c4671ea,LCK,Summer_Season,2016,JAG,red,0,37,TrAce,Gnar,Winged,Elise,Kuzan,Viktor,Pilot,Ashe,Braum,Chei,'Nidalee', 'Sivir', 'Vladimir',,
 3931,8663200f2463917c,LCK,Spring_Season,2017,kt,blue,0,27,Smeb,Gragas,Score,LeeSin,Pawn,Leblanc,Deft,Ezreal,Mata,Lulu,'Nautilus', 'Maokai', 'Graves', 'Gangplank', 'Shen'
-3933,8663200f2463917c,LCK,Spring_Season,2017,kt,blue,0,27,Smeb,Gragas,Score,LeeSin,Pawn,Leblanc,Deft,Ezreal,Mata,Lulu,'Nautilus', 'Maokai', 'Graves', 'Gangplank', 'Shen'
 3930,8663200f2463917c,LCK,Spring_Season,2017,SSG,red,1,27,CuVee,Poppy,Haru,Rengar,Crown,Ryze,Ruler,Jhin,Zyra,CoreJJ,'Varus', 'Camille', 'Rumble', 'Malzahar', 'Karma'
-3932,8663200f2463917c,LCK,Spring_Season,2017,SSG,red,1,27,CuVee,Poppy,Haru,Rengar,Crown,Ryze,Ruler,Jhin,Zyra,CoreJJ,'Varus', 'Camille', 'Rumble', 'Malzahar', 'Karma'
 3934,8663d2a752587ec3,LMS,Spring_Playoffs,2017,ahq,blue,0,30,Ziv,Gragas,Mountain,Khazix,Chawy,Orianna,An,Ashe,Albis,Nami,'Leblanc', 'Syndra', 'Varus', 'Rumble', 'Taliyah'
 3935,8663d2a752587ec3,LMS,Spring_Playoffs,2017,FW,red,1,30,MMD,Shen,Karsa,Graves,Maple,Ahri,Betty,Jhin,Zyra,SwordArt,'Camille', 'Lulu', 'Fizz', 'Karma', 'Malzahar'
 3937,867574647f0780aa,LCK,Spring_Season,2016,KDM,blue,0,41,Hipo,Maokai,Crush,Nidalee,Edge,Leblanc,SSol,Sivir,GuGer,Braum,'Graves', 'Ekko', 'Ryze',,
@@ -3992,9 +3970,7 @@
 3990,882c684cae565af7,LCK,Regional,2016,SSG,blue,1,29,CuVee,Kennen,Ambition,Skarner,Crown,Taliyah,Ruler,Jhin,CoreJJ,TahmKench,'Gragas', 'Vladimir', 'Nidalee',,
 3991,882c684cae565af7,LCK,Regional,2016,kt,red,0,29,Ssumday,Gnar,Score,Elise,Fly,Ekko,Arrow,Sivir,Taric,Hachani,'Gangplank', 'RekSai', 'Viktor',,
 3993,8836d419a2da31eb,LCK,Spring_Season,2017,MVP,blue,1,36,ADD,Kennen,Beyond,Elise,Ian,Orianna,MaHa,Varus,Max,TahmKench,'Malzahar', 'Ezreal', 'Leblanc', 'Vladimir', 'Taliyah'
-3995,8836d419a2da31eb,LCK,Spring_Season,2017,MVP,blue,1,36,ADD,Kennen,Beyond,Elise,Ian,Orianna,MaHa,Varus,Max,TahmKench,'Malzahar', 'Ezreal', 'Leblanc', 'Vladimir', 'Taliyah'
 3992,8836d419a2da31eb,LCK,Spring_Season,2017,JAG,red,0,36,ikssu,Rumble,UmTi,Rengar,Kuzan,Ryze,Teddy,Jhin,Bard,SnowFlower,'Camille', 'Graves', 'Nautilus', 'Syndra', 'Lulu'
-3994,8836d419a2da31eb,LCK,Spring_Season,2017,JAG,red,0,36,ikssu,Rumble,UmTi,Rengar,Kuzan,Ryze,Teddy,Jhin,Bard,SnowFlower,'Camille', 'Graves', 'Nautilus', 'Syndra', 'Lulu'
 3997,8840ad72712d726c,Europe,Spring_Season,2016,ROC,blue,0,38,fredy122,Quinn,Airwaks,Graves,Betsy,Lissandra,Safir,Kalista,extinkt,Alistar,'Shen', 'TahmKench', 'Lulu',,
 3996,8840ad72712d726c,Europe,Spring_Season,2016,H2K,red,1,38,Odoamne,Poppy,Jankos,Elise,Selfie,Jayce,FORG1VENGRE,Corki,Trundle,Vander,'Ryze', 'Gangplank', 'RekSai',,
 3999,884e756c0d608024,LCK,Spring_Season,2015,NJE,blue,0,40,Duke,Hecarim,Peanut,JarvanIV,TANK,Xerath,Ohq,Ezreal,Cain,Braum,'Urgot', 'Chogath', 'Azir',,
@@ -4588,9 +4564,7 @@
 4587,9c7f1701550de2ad,LCK,Spring_Season,2015,JAG,blue,1,59,TrAce,Rumble,Chaser,JarvanIV,GBM,Ezreal,Cpt Jack,Graves,Chei,Veigar,'LeeSin', 'RekSai', 'Lulu',,
 4586,9c7f1701550de2ad,LCK,Spring_Season,2015,SSG,red,0,59,CuVee,Maokai,Eve,Nidalee,Ace,Kassadin,Fury,Corki,Alistar,Wraith,'Xerath', 'Ahri', 'Lissandra',,
 4588,9c827bc6768fa93d,LCK,Spring_Season,2017,SKT,blue,1,30,Huni,Rumble,Peanut,LeeSin,Faker,Talon,Bang,Ashe,Wolf,Karma,'Malzahar', 'Kennen', 'Graves', 'Nautilus', 'Maokai'
-4589,9c827bc6768fa93d,LCK,Spring_Season,2017,SKT,blue,1,30,Huni,Rumble,Peanut,LeeSin,Faker,Talon,Bang,Ashe,Wolf,Karma,'Malzahar', 'Kennen', 'Graves', 'Nautilus', 'Maokai'
 4590,9c827bc6768fa93d,LCK,Spring_Season,2017,AFs,red,0,30,MaRin,DrMundo,Mowgli,Rengar,Kuro,Ryze,Kramer,Ezreal,Lulu,TusiN,'Camille', 'Varus', 'Leblanc', 'Zyra', 'Orianna'
-4591,9c827bc6768fa93d,LCK,Spring_Season,2017,AFs,red,0,30,MaRin,DrMundo,Mowgli,Rengar,Kuro,Ryze,Kramer,Ezreal,Lulu,TusiN,'Camille', 'Varus', 'Leblanc', 'Zyra', 'Orianna'
 4592,9c8de02fec206831,Season_World_Championship,International,2014,AHQ,blue,1,35,Prydz,Irelia,NAZ,LeeSin,westdoor,TwistedFate,GarnetDevil,Graves,GreenTea,Leona,'Alistar', 'Zilean', 'Ryze',,
 4593,9c8de02fec206831,Season_World_Championship,International,2014,DP,red,0,35,fabFabulous,Nidalee,Crystal,Vi,Naru,Ahri,HolyPhoenix,Lucian,Janna,Touch,'Thresh', 'Fizz', 'Zed',,
 4594,9ca3aab7069c04a6,LCK,Summer_Season,2015,CJE,blue,0,37,Helper,Shen,Trick,Nidalee,Coco,Lulu,Space,Kalista,Max,Alistar,'RekSai', 'Ryze', 'TwistedFate',,
@@ -4852,9 +4826,7 @@
 4851,a4ab9a5bcf04e311,Season_World_Championship,International,2016,SSG,blue,1,27,CuVee,Poppy,Ambition,Olaf,Crown,Viktor,Ruler,Ezreal,CoreJJ,Zyra,'Caitlyn', 'Syndra', 'LeeSin',,
 4850,a4ab9a5bcf04e311,Season_World_Championship,International,2016,H2K,red,0,27,Odoamne,Trundle,Jankos,Elise,Ryu,Ryze,FORG1VEN,Sivir,Karma,Vander,'Jhin', 'Nidalee', 'Ashe',,
 4852,a4adda6435bc3b26,LCK,Spring_Season,2017,JAG,blue,1,42,ikssu,Nautilus,UmTi,Graves,Kuzan,Vladimir,Teddy,Jhin,SnowFlower,Zyra,'Rumble', 'Ryze', 'Camille', 'Ahri', 'Maokai'
-4855,a4adda6435bc3b26,LCK,Spring_Season,2017,JAG,blue,1,42,ikssu,Nautilus,UmTi,Graves,Kuzan,Vladimir,Teddy,Jhin,SnowFlower,Zyra,'Rumble', 'Ryze', 'Camille', 'Ahri', 'Maokai'
 4853,a4adda6435bc3b26,LCK,Spring_Season,2017,kt,red,0,42,Smeb,Shen,Score,Rengar,Pawn,Orianna,Deft,Ashe,Malzahar,Mata,'Varus', 'Karma', 'Leblanc', 'Taliyah', 'Syndra'
-4854,a4adda6435bc3b26,LCK,Spring_Season,2017,kt,red,0,42,Smeb,Shen,Score,Rengar,Pawn,Orianna,Deft,Ashe,Malzahar,Mata,'Varus', 'Karma', 'Leblanc', 'Taliyah', 'Syndra'
 4856,a4be159f0971bb47,LCK,Spring_Season,2016,ROX,blue,1,29,Smeb,Poppy,Peanut,Graves,Kuro,Viktor,PraY,Kalista,GorillA,Alistar,'Ryze', 'Corki', 'Lulu',,
 4857,a4be159f0971bb47,LCK,Spring_Season,2016,SKT,red,0,29,Duke,TahmKench,Blank,Elise,Faker,Quinn,Bang,Ezreal,Trundle,Wolf,'Fiora', 'Nidalee', 'Gangplank',,
 4858,a4d1b04e6dc99691,North_America,Spring_Season,2017,FOX,blue,0,47,Looper,Shen,Akaadian,Rengar,Froggen,Ahri,Keith,Sivir,Gate,Karma,'Cassiopeia', 'Malzahar', 'Ryze', 'Ekko', 'Syndra'
@@ -5136,9 +5108,7 @@
 5135,adc500d31cd6f3be,LMS,Summer_Season,2016,JT,blue,1,29,Morning,Shen,REFRA1N,RekSai,FoFo,Vladimir,BeBe,Twitch,Jay,Braum,'Graves', 'Nidalee', 'Anivia',,
 5134,adc500d31cd6f3be,LMS,Summer_Season,2016,FW,red,0,29,MMD,Maokai,Karsa,Elise,Maple,Ryze,NL,Sivir,Leona,SwordArT,'Gnar', 'Gangplank', 'Trundle',,
 5137,ae1759f5040cfe2d,LCK,Spring_Season,2017,SSG,blue,0,34,CuVee,Camille,Ambition,Rengar,Crown,Syndra,Ruler,Jhin,CoreJJ,Lulu,'Malzahar', 'Ashe', 'Rumble', 'Ahri', 'Orianna'
-5138,ae1759f5040cfe2d,LCK,Spring_Season,2017,SSG,blue,0,34,CuVee,Camille,Ambition,Rengar,Crown,Syndra,Ruler,Jhin,CoreJJ,Lulu,'Malzahar', 'Ashe', 'Rumble', 'Ahri', 'Orianna'
 5136,ae1759f5040cfe2d,LCK,Spring_Season,2017,kt,red,1,34,Smeb,Renekton,Score,Khazix,Pawn,Ryze,Deft,Varus,Zyra,Mata,'Leblanc', 'Graves', 'Shen', 'Karma', 'TahmKench'
-5139,ae1759f5040cfe2d,LCK,Spring_Season,2017,kt,red,1,34,Smeb,Renekton,Score,Khazix,Pawn,Ryze,Deft,Varus,Zyra,Mata,'Leblanc', 'Graves', 'Shen', 'Karma', 'TahmKench'
 5141,ae2f201790f44f9f,LMS,Spring_Season,2015,ahq,blue,0,49,Ziv,Lulu,Albis,RekSai,westdoor,Zed,AN,KogMaw,GreenTea,Nami,'Ezreal', 'Sivir', 'Annie',,
 5140,ae2f201790f44f9f,LMS,Spring_Season,2015,TPA,red,1,49,Morning,Gnar,Winds,JarvanIV,Chawy,Xerath,Lupin,Corki,Janna,Jay,'Fizz', 'Kassadin', 'Kalista',,
 5143,ae3261ebf027d1c7,North_America,Regional,2015,C9,blue,0,41,Balls,Lulu,Hai,Amumu,Incarnati0n,Yasuo,Sneaky,Tristana,LemonNation,Karma,'Urgot', 'Nidalee', 'Braum',,
@@ -5280,9 +5250,7 @@
 5278,b2f29a32d5e4a83f,LCK,Spring_Season,2016,SSG,blue,0,36,CuVee,Olaf,Ambition,RekSai,Crown,Cassiopeia,Stitch,Tristana,Wraith,Alistar,'Elise', 'Graves', 'Gangplank',,
 5279,b2f29a32d5e4a83f,LCK,Spring_Season,2016,kt,red,1,36,Ssumday,Poppy,Score,LeeSin,Fly,Lulu,Arrow,Kalista,Trundle,Hachani,'Viktor', 'Ryze', 'Lissandra',,
 5281,b300d21bbff59d7a,LCK,Spring_Season,2017,AFs,blue,1,44,MaRin,Nautilus,Spirit,Rengar,Kuro,Taliyah,Kramer,Ashe,TusiN,Zyra,'Malzahar', 'TahmKench', 'Leblanc', 'Shen', 'Ryze'
-5283,b300d21bbff59d7a,LCK,Spring_Season,2017,AFs,blue,1,44,MaRin,Nautilus,Spirit,Rengar,Kuro,Taliyah,Kramer,Ashe,TusiN,Zyra,'Malzahar', 'TahmKench', 'Leblanc', 'Shen', 'Ryze'
 5280,b300d21bbff59d7a,LCK,Spring_Season,2017,SKT,red,0,44,Huni,Poppy,Peanut,Graves,Faker,Vladimir,Bang,Ezreal,Karma,Wolf,'Rumble', 'Camille', 'Varus', 'Lulu', 'Nami'
-5282,b300d21bbff59d7a,LCK,Spring_Season,2017,SKT,red,0,44,Huni,Poppy,Peanut,Graves,Faker,Vladimir,Bang,Ezreal,Karma,Wolf,'Rumble', 'Camille', 'Varus', 'Lulu', 'Nami'
 5285,b304d6395dddd42e,Mid-Season_Invitational,International,2016,SKT,blue,0,61,Duke,Poppy,Blank,Nidalee,Faker,Azir,Bang,Lucian,Wolf,TahmKench,'Twitch', 'Sivir', 'Lissandra',,
 5284,b304d6395dddd42e,Mid-Season_Invitational,International,2016,RNG,red,1,61,Looper,Maokai,mlxg,Graves,xiaohu,Leblanc,Wuxx,Jhin,Alistar,Mata,'Ryze', 'Kindred', 'Trundle',,
 5286,b305f6be42f858bb,LMS,Summer_Season,2016,TM,blue,0,30,Rins,Irelia,Benny,Gragas,K,Vladimir,Breeze,Ashe,Rain,Alistar,'Jhin', 'KogMaw', 'Gangplank',,
@@ -5582,9 +5550,7 @@
 5580,bdbf7fd35fde25c4,LCK,Spring_Season,2017,ROX,blue,0,41,Shy,Poppy,SeongHwan,Elise,Mickey,Corki,Sangyoon,Varus,Key,Thresh,'Malzahar', 'Khazix', 'Zyra', 'Orianna', 'Jhin'
 5581,bdbf7fd35fde25c4,LCK,Spring_Season,2017,AFs,red,1,41,MaRin,Maokai,Spirit,Rengar,Kuro,AurelionSol,Kramer,Sivir,Karma,TusiN,'Leblanc', 'Camille', 'Ashe', 'Shen', 'Jayce'
 5582,bdd45f2e45ea665b,LCK,Spring_Season,2017,bbq,blue,0,37,Crazy,Nautilus,Bless,Graves,Tempt,Cassiopeia,Ghost,Ezreal,Totoro,Lulu,'Malzahar', 'Talon', 'Rengar', 'Zyra', 'AurelionSol'
-5584,bdd45f2e45ea665b,LCK,Spring_Season,2017,bbq,blue,0,37,Crazy,Nautilus,Bless,Graves,Tempt,Cassiopeia,Ghost,Ezreal,Totoro,Lulu,'Malzahar', 'Talon', 'Rengar', 'Zyra', 'AurelionSol'
 5583,bdd45f2e45ea665b,LCK,Spring_Season,2017,LZ,red,1,37,Expession,Shen,Crash,Khazix,Fly,Ryze,PraY,Ashe,Karma,GorillA,'Varus', 'Camille', 'Leblanc', 'Gangplank', 'Rumble'
-5585,bdd45f2e45ea665b,LCK,Spring_Season,2017,LZ,red,1,37,Expession,Shen,Crash,Khazix,Fly,Ryze,PraY,Ashe,Karma,GorillA,'Varus', 'Camille', 'Leblanc', 'Gangplank', 'Rumble'
 5586,bdd7bf22f4b94f41,Europe,Spring_Season,2017,FNC,blue,1,40,sOAZ,Shen,Broxah,Elise,Caps,Ekko,Rekkles,Kennen,Jesiz,Zyra,'Caitlyn', 'Orianna', 'Rumble', 'Ashe', 'TahmKench'
 5587,bdd7bf22f4b94f41,Europe,Spring_Season,2017,G2,red,0,40,Expect,Nautilus,Trick,Rengar,Perkz,Syndra,Zven,Kalista,Lulu,mithy,'LeeSin', 'Leblanc', 'Fiddlesticks', 'Graves', 'Khazix'
 5588,bdebbd99454e91a2,LCK,Summer_Season,2016,CJE,blue,1,45,Shy,Gnar,Haru,Nidalee,Sky,TwistedFate,Kramer,Lucian,MadLife,Braum,'Gangplank', 'Vladimir', 'Ashe',,
@@ -5934,9 +5900,7 @@
 5933,c8a9eda8c69ffeac,CBLOL,Winter_Season,2016,OPK,blue,1,31,SkyBart,Irelia,Turtle,Elise,Goku,Leblanc,Skyer,Ashe,Professor,Zyra,'Bard', 'Braum', 'Vladimir',,
 5932,c8a9eda8c69ffeac,CBLOL,Winter_Season,2016,RED,red,0,31,Ayel,Olaf,YoDa SL,RekSai,Brucer,Zilean,SacyR,Twitch,Karma,Dioud,'Sivir', 'Kindred', 'Swain',,
 5935,c8acd365218bae3f,LCK,Spring_Season,2017,JAG,blue,0,36,ikssu,Shen,UmTi,Rengar,Kuzan,Vladimir,Teddy,Jhin,SnowFlower,MissFortune,'Rumble', 'Ryze', 'Camille', 'Gragas', 'Syndra'
-5937,c8acd365218bae3f,LCK,Spring_Season,2017,JAG,blue,0,36,ikssu,Shen,UmTi,Rengar,Kuzan,Vladimir,Teddy,Jhin,SnowFlower,MissFortune,'Rumble', 'Ryze', 'Camille', 'Gragas', 'Syndra'
 5934,c8acd365218bae3f,LCK,Spring_Season,2017,kt,red,1,36,Smeb,Nautilus,Score,LeeSin,Pawn,Viktor,Deft,Ezreal,Zyra,Mata,'Varus', 'Graves', 'Leblanc', 'Karma', 'Taliyah'
-5936,c8acd365218bae3f,LCK,Spring_Season,2017,kt,red,1,36,Smeb,Nautilus,Score,LeeSin,Pawn,Viktor,Deft,Ezreal,Zyra,Mata,'Varus', 'Graves', 'Leblanc', 'Karma', 'Taliyah'
 5939,c8b0ea1b0fab8bc0,LMS,Spring_Season,2016,TPA,blue,1,30,Morning,Nautilus,REFRA1N,RekSai,FoFo,Lissandra,BeBe,Kalista,Jay,Alistar,'Corki', 'Gragas', 'Quinn',,
 5938,c8b0ea1b0fab8bc0,LMS,Spring_Season,2016,XG,red,0,30,Nexus,Poppy,Yo,Elise,SuwaKo,Ryze,LBB,Lucian,Braum,SuKi,'Nidalee', 'Kindred', 'Lulu',,
 5941,c8c23ac309c53958,Europe,Summer_Season,2016,OG,blue,0,33,sOAZ,Trundle,Amazing,Elise,PowerOfEvil,Taliyah,xPeke,KogMaw,Hybrid,Lulu,'Fiora', 'Nidalee', 'Kassadin',,
@@ -5958,9 +5922,7 @@
 5957,c902dbbdbc54d5f0,LCK,Summer_Season,2015,SSG,blue,1,45,CuVee,Hecarim,Eve,Gragas,Crown,Viktor,Fury,Kalista,Luna,Janna,'Ezreal', 'RekSai', 'Gnar',,
 5956,c902dbbdbc54d5f0,LCK,Summer_Season,2015,JAG,red,0,45,TrAce,Maokai,Chaser,Nidalee,GBM,TwistedFate,Pilot,Corki,Alistar,Sweet,'Ryze', 'Azir', 'Braum',,
 5959,c90339268eba60c3,LCK,Spring_Season,2017,LZ,blue,0,32,Expession,Nautilus,Crash,Khazix,Fly,Vladimir,PraY,Ashe,GorillA,Karma,'Malzahar', 'Rengar', 'Leblanc', 'Shen', 'Syndra'
-5961,c90339268eba60c3,LCK,Spring_Season,2017,LZ,blue,0,32,Expession,Nautilus,Crash,Khazix,Fly,Vladimir,PraY,Ashe,GorillA,Karma,'Malzahar', 'Rengar', 'Leblanc', 'Shen', 'Syndra'
 5958,c90339268eba60c3,LCK,Spring_Season,2017,bbq,red,1,32,Crazy,Rumble,Bless,Elise,Tempt,Jayce,Ghost,Ezreal,Lulu,Totoro,'Varus', 'Camille', 'Graves', 'Zyra', 'Ryze'
-5960,c90339268eba60c3,LCK,Spring_Season,2017,bbq,red,1,32,Crazy,Rumble,Bless,Elise,Tempt,Jayce,Ghost,Ezreal,Lulu,Totoro,'Varus', 'Camille', 'Graves', 'Zyra', 'Ryze'
 5962,c92f6a8d732e4610,Europe,Spring_Season,2016,SPY,blue,1,31,Wunderwear,Fiora,Trashy,Elise,Sencux,Corki,Kobbe,Lucian,Nisbeth,TahmKench,'Braum', 'Malphite', 'Kalista',,
 5963,c92f6a8d732e4610,Europe,Spring_Season,2016,GIA,red,0,31,Atom,Maokai,BetongJocke,Nidalee,xPePii,Ahri,Adryh,Ezreal,Alistar,G0DFRED,'Poppy', 'Gangplank', 'Leblanc',,
 5964,c9338e76e8b6cf4a,LCK,Summer_Season,2016,SSG,blue,1,34,Helper,Ekko,Ambition,Nidalee,Crown,Varus,Ruler,Sivir,Wraith,Trundle,'Hecarim', 'Malzahar', 'Jhin',,
@@ -6104,9 +6066,7 @@
 6103,cd7f5d6ea8eb79dd,LCK,Spring_Playoffs,2016,AFs,blue,0,46,ikssu,Gragas,LirA,Nidalee,Mickey,Lulu,Sangyoon,Sivir,SnowFlower,Alistar,'Gangplank', 'Trundle', 'Lissandra',,
 6102,cd7f5d6ea8eb79dd,LCK,Spring_Playoffs,2016,JAG,red,1,46,TrAce,Maokai,Winged,Graves,Kuzan,Azir,Pilot,Lucian,Braum,Chei,'TwistedFate', 'Ryze', 'Varus',,
 6104,cd81a989802813a3,LCK,Spring_Season,2017,kt,blue,1,36,Smeb,Rumble,Score,Graves,Pawn,Talon,Deft,KogMaw,Mata,Lulu,'Malzahar', 'Nautilus', 'LeeSin', 'Kled', 'Gragas'
-6105,cd81a989802813a3,LCK,Spring_Season,2017,kt,blue,1,36,Smeb,Rumble,Score,Graves,Pawn,Talon,Deft,KogMaw,Mata,Lulu,'Malzahar', 'Nautilus', 'LeeSin', 'Kled', 'Gragas'
 6106,cd81a989802813a3,LCK,Spring_Season,2017,JAG,red,0,36,ikssu,Kennen,UmTi,Khazix,Kuzan,Vladimir,Teddy,Ezreal,Nami,SnowFlower,'Camille', 'Varus', 'Leblanc', 'Ashe', 'Ryze'
-6107,cd81a989802813a3,LCK,Spring_Season,2017,JAG,red,0,36,ikssu,Kennen,UmTi,Khazix,Kuzan,Vladimir,Teddy,Ezreal,Nami,SnowFlower,'Camille', 'Varus', 'Leblanc', 'Ashe', 'Ryze'
 6109,cd82661b0f25d6c7,LCK,Spring_Playoffs,2015,JAG,blue,0,33,TrAce,Shyvana,Chaser,Sejuani,GBM,Cassiopeia,Pilot,Jinx,Chei,Morgana,'Leblanc', 'Vladimir', 'KogMaw',,
 6108,cd82661b0f25d6c7,LCK,Spring_Playoffs,2015,CJE,red,1,33,Shy,Hecarim,Ambition,Gragas,Coco,Ziggs,Space,Corki,Nautilus,MadLife,'Urgot', 'Kalista', 'Nunu',,
 6111,cd89c5a99076f289,LCK,Summer_Season,2015,LZ,blue,1,38,Expession,Shen,TusiN,LeeSin,Frozen,Viktor,Roar,Vayne,IgNar,Janna,'Rumble', 'Azir', 'Elise',,
@@ -7302,9 +7262,7 @@
 7301,f5eb7c5f03eefec0,Europe,Spring_Season,2015,GIA,blue,0,28,Werlyb,Cassiopeia,Fr3deric,JarvanIV,PePiiNeRO,Ahri,Adryh,Ezreal,Rydle,Lulu,'LeeSin', 'Irelia', 'Lissandra',,
 7300,f5eb7c5f03eefec0,Europe,Spring_Season,2015,H2K,red,1,28,Odoamne,Gnar,loulex,Elise,Ryu,Leblanc,Hjarnan,Sivir,Annie,Voidle,'Xerath', 'Jax', 'RekSai',,
 7303,f5f627666797d937,LCK,Spring_Season,2017,MVP,blue,1,41,ADD,Rumble,Beyond,Rengar,Ian,Orianna,MaHa,Jhin,Max,TahmKench,'Malzahar', 'Taliyah', 'Nautilus', 'Ekko', 'Talon'
-7305,f5f627666797d937,LCK,Spring_Season,2017,MVP,blue,1,41,ADD,Rumble,Beyond,Rengar,Ian,Orianna,MaHa,Jhin,Max,TahmKench,'Malzahar', 'Taliyah', 'Nautilus', 'Ekko', 'Talon'
 7302,f5f627666797d937,LCK,Spring_Season,2017,KDM,red,0,41,Roach,Gragas,Punch,Graves,Edge,Zilean,SSol,Ezreal,Karma,GuGer,'Leblanc', 'Varus', 'Camille', 'Thresh', 'Syndra'
-7304,f5f627666797d937,LCK,Spring_Season,2017,KDM,red,0,41,Roach,Gragas,Punch,Graves,Edge,Zilean,SSol,Ezreal,Karma,GuGer,'Leblanc', 'Varus', 'Camille', 'Thresh', 'Syndra'
 7306,f5fba7077eacc895,LCK,Summer_Season,2015,JAG,blue,1,38,TrAce,Rumble,Chaser,RekSai,GBM,Lulu,Cpt Jack,Sivir,Chei,Annie,'Varus', 'Viktor', 'Gragas',,
 7307,f5fba7077eacc895,LCK,Summer_Season,2015,KOO,red,0,38,Smeb,Maokai,Wisdom,Evelynn,Kuro,Leblanc,PraY,Vayne,Karma,GorillA,'Alistar', 'Kalista', 'Ryze',,
 7309,f609b5ef7c4a50cf,Season_World_Championship,International,2014,NWS,blue,1,46,Save,Riven,Watch,LeeSin,Ggoong,Lulu,Zefa,Tristana,GorillA,Thresh,'Fizz', 'Maokai', 'Ryze',,
@@ -7452,9 +7410,7 @@
 7450,fb7c37c00bd18ea2,CBLOL,Summer_Season,2017,CNB,blue,0,47,Lep,Rumble,Minerva,RekSai,Tinowns,Taliyah,pbO,Jhin,Woswos,Zyra,'Karma', 'Shen', 'Malzahar', 'Ryze', 'Syndra'
 7451,fb7c37c00bd18ea2,CBLOL,Summer_Season,2017,KST,red,1,47,Yang,Renekton,Revolta,Khazix,takeshi,Ekko,esA,Sivir,TahmKench,Ziriguidun,'Varus', 'Leblanc', 'Jayce', 'Zed', 'Camille'
 7453,fb83dc44945b9197,LCK,Spring_Season,2017,LZ,blue,1,31,Expession,Nautilus,Crash,Khazix,Fly,Ryze,PraY,Ashe,GorillA,TahmKench,'Malzahar', 'Rengar', 'Leblanc', 'Shen', 'Rumble'
-7454,fb83dc44945b9197,LCK,Spring_Season,2017,LZ,blue,1,31,Expession,Nautilus,Crash,Khazix,Fly,Ryze,PraY,Ashe,GorillA,TahmKench,'Malzahar', 'Rengar', 'Leblanc', 'Shen', 'Rumble'
 7452,fb83dc44945b9197,LCK,Spring_Season,2017,ROX,red,0,31,Shy,Renekton,Mightybear,Elise,Mickey,Cassiopeia,Sangyoon,Jhin,Zyra,Key,'Graves', 'Varus', 'Camille', 'Taliyah', 'Zilean'
-7455,fb83dc44945b9197,LCK,Spring_Season,2017,ROX,red,0,31,Shy,Renekton,Mightybear,Elise,Mickey,Cassiopeia,Sangyoon,Jhin,Zyra,Key,'Graves', 'Varus', 'Camille', 'Taliyah', 'Zilean'
 7457,fb86694c62254bd5,LCK,Regional,2015,CJE,blue,1,23,Shy,Lulu,Ambition,RekSai,Coco,Diana,Space,Jinx,MadLife,Alistar,'Malphite', 'Kalista', 'Gangplank',,
 7456,fb86694c62254bd5,LCK,Regional,2015,JAG,red,0,23,TrAce,Fizz,Chaser,Evelynn,GBM,Ryze,Pilot,Ashe,Braum,Chei,'Azir', 'Shen', 'Elise',,
 7458,fb904c0909b43576,LCK,Summer_Season,2016,JAG,blue,1,34,TrAce,Maokai,Winged,RekSai,Blanc,Azir,Pilot,Sivir,Chei,Karma,'Lucian', 'Elise', 'Alistar',,

@@ -2,5 +2,5 @@
 # Michael Phillips
 
 ## EDA
-This folder contains the final datasets used for the project, notebooks showing the full data wrangling process, and a final EDA notebook.
+This folder contains the final datasets used for the project, notebooks showing the full data wrangling process, and the EDA notebook.
 

@@ -1,7 +1,7 @@
 # Capstone Project 2 - League of Legends
 # Machine Learning - LSTM Neural Network
 
-## LSTM_NN_to predict_lol
+### LSTM_NN_to predict_lol
 This notebook contains the final project presentation, detailing the process, results, and methodology used in the creation 
 and use of an LSTM neural network to predict League of Legends games.
 
